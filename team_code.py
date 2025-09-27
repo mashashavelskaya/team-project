@@ -1,2 +1,2 @@
 print("This is team application.")
-print("Version 5")
+print("Version 6")
